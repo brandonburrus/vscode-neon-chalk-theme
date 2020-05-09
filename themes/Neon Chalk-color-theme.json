@@ -225,7 +225,8 @@
         "storage.type.object.array.java",
         "storage.type.java",
         "storage.type.generic.java",
-        "entity.name.type.class.java"
+        "entity.name.type.class.java",
+        "entity.name.type"
       ],
       "settings": {
         "foreground": "#49c0b6",
