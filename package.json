@@ -1,0 +1,23 @@
+{
+  "name": "neon-chalk",
+  "displayName": "Neon Chalk",
+  "description": "VSCode Color Theme designed to look like brightly-colored chalk paired with a clean looking editor!",
+  "publisher": "brandon-burrus",
+  "license": "MIT",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Chalk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Chalk-color-theme.json"
+      }
+    ]
+  }
+}
