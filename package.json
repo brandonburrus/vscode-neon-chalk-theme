@@ -4,7 +4,7 @@
   "description": "VSCode Color Theme designed to look like brightly-colored chalk paired with a clean looking editor!",
   "publisher": "brandon-burrus",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/BrandonBurrus/vscode-neon-chalk-theme",
   "repository": {
     "type": "git",
