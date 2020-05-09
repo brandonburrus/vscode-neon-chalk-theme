@@ -1,11 +1,16 @@
-# Neon Chalk 🖍
+<div style="display:flex;align-items:center;justify-content: center;">
+  <img src="./icon.png" width="100"/>
+  <h1 style="margin-left: 16px;">Neon Chalk</h1>
+</div>
 
-  <span>
-    <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/version-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/rating-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/installs-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
-  </span>
+<br />
+
+<span style="display: flex;justify-content: center;">
+  <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/version-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=VERSION" alt="Version"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/rating-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Rating" alt="Rating"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/installs-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Installs" alt="Installs"></a>&nbsp;
+  <a href="https://marketplace.visualstudio.com/items?itemName=brandon-burrus.neon-chalk"><img src="https://vsmarketplacebadge.apphb.com/downloads-short/brandon-burrus.neon-chalk.svg?style=for-the-badge&colorA=252526&colorB=43A047&label=Downloads" alt="Downloads"></a>
+</span>
 
 ---
 
