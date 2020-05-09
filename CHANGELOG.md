@@ -1,3 +1,10 @@
+#### 1.0.2 (2020-05-09)
+
+##### New Features
+
+*  added theme icon ([69be04af](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/69be04af1b6a160c10cb7ae3146099d43b04a1b4))
+*  added support section to README ([7873b44d](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/7873b44d9f3299bc440279c084098ccd4b4c558d))
+
 #### 1.0.1 (2020-05-09)
 
 ##### Chores
