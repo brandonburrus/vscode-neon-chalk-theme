@@ -5,9 +5,14 @@
   "publisher": "brandon-burrus",
   "license": "MIT",
   "version": "1.0.0",
+  "homepage": "https://github.com/BrandonBurrus/vscode-neon-chalk-theme",
   "repository": {
     "type": "git",
     "url": "https://github.com/BrandonBurrus/vscode-neon-chalk-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/BrandonBurrus/vscode-neon-chalk-theme/issues",
+    "email": "brandon@burrus.io"
   },
   "engines": {
     "vscode": "^1.45.0"
