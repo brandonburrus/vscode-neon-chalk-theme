@@ -1,9 +1,3 @@
-# Change Log
+#### 1.0.0 (2020-05-09)
 
-All notable changes to the "neon-chalk" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Initial Release

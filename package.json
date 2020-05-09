@@ -23,5 +23,8 @@
         "path": "./themes/Neon Chalk-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
   }
 }
