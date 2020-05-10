@@ -1,3 +1,14 @@
+#### 1.1.0 (2020-05-10)
+
+##### New Features
+
+*  add type parameter scope ([364d3be3](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/364d3be3fe6c8b1dc8fc2f1e8c5d206d4b9ad85a))
+*  add inherited subclass scope ([52bd026b](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/52bd026b56ec1fad5ed9e2d3c4ec6cfbba7bc31a))
+*  add optional syntax scope ([46eb813c](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/46eb813cd1ca91b834292f5c21a25a56166325a6))
+*  add xml meta tag scope ([9f3badc1](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/9f3badc1dad63642be09b75673084ea034f6ab26))
+*  added theme icon ([69be04af](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/69be04af1b6a160c10cb7ae3146099d43b04a1b4))
+*  added support section to README ([7873b44d](https://github.com/BrandonBurrus/vscode-neon-chalk-theme/commit/7873b44d9f3299bc440279c084098ccd4b4c558d))
+
 #### 1.0.2 (2020-05-09)
 
 ##### New Features
