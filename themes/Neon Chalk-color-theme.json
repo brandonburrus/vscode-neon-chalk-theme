@@ -226,7 +226,8 @@
         "storage.type.java",
         "storage.type.generic.java",
         "entity.name.type.class.java",
-        "entity.name.type"
+        "entity.name.type",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#49c0b6",
