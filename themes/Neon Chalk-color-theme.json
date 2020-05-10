@@ -226,7 +226,8 @@
         "storage.type.java",
         "storage.type.generic.java",
         "entity.name.type.class.java",
-        "entity.name.type"
+        "entity.name.type",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "foreground": "#49c0b6",
@@ -328,7 +329,10 @@
         "punctuation.section.catch.begin.bracket.curly.java",
         "punctuation.section.catch.end.bracket.curly.java",
         "punctuation.section.function.begin.bracket.round.css",
-        "punctuation.section.function.end.bracket.round.css"
+        "punctuation.section.function.end.bracket.round.css",
+        "meta.tag.xml",
+        "punctuation.accessor.optional",
+        "punctuation.definition.typeparameters"
       ],
       "settings": {
         "foreground": "#ddddddff",
