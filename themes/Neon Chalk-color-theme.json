@@ -332,7 +332,8 @@
         "punctuation.section.function.end.bracket.round.css",
         "meta.tag.xml",
         "punctuation.accessor.optional",
-        "punctuation.definition.typeparameters"
+        "punctuation.definition.typeparameters",
+        "meta.brace.square"
       ],
       "settings": {
         "foreground": "#ddddddff",
